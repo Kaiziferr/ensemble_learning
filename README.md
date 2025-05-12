@@ -1,2 +1,2 @@
 # ensemble_learning
-Ensemble models: bagging and boosting
+This repository contains different implementations of ensemble models using Bagging and Boosting techniques, such as Random Forest, AdaBoost, ...
