@@ -6,4 +6,11 @@ AdaBoost is an ensemble algorithm that combines multiple weak classifiers (such 
 
 **Activities**
 
-- [AdaBoost implementation using GridSearchCV](https://github.com/Kaiziferr/ensemble_learning/tree/main/boosting/Ada_Boost) 
+- [AdaBoost implementation using GridSearchCV](https://github.com/Kaiziferr/ensemble_learning/tree/main/boosting/Ada_Boost): Implementation of the AdaBoost model using GridSearchCV
+
+## Random Forest
+Random Forest is an ensemble algorithm based on combining multiple independent decision trees. Each tree is trained on a random sample of the dataset and uses a random subset of features to split at each node. The final result is obtained by voting (for classification) or averaging (for regression) across all the trees.
+
+**Activities**
+
+- [Oob Score in Random Forest](https://github.com/Kaiziferr/ensemble_learning/tree/main/bagging/Random_Forest): The focus of this project is to demonstrate the use oob score in random forest
