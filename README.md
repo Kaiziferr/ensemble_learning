@@ -13,4 +13,4 @@ Random Forest is an ensemble algorithm based on combining multiple independent d
 
 **Activities**
 
-- [Oob Score in Random Forest](https://github.com/Kaiziferr/ensemble_learning/tree/main/bagging/Random_Forest): The focus of this project is to demonstrate the use oob score in random forest
+- [Oob Score in Random Forest](https://github.com/Kaiziferr/ensemble_learning/tree/main/bagging/Random_Forest): The goal of this project is to demonstrate the use of out-of-bag (oob) scorein Random Forest, including the standard functions for classification (such as Accuracy) and regression (R²). Additionally, it shows how to implement a custom function with a different metric to be used as a performance criterion for oob score
